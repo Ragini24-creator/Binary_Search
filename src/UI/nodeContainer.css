@@ -1,0 +1,10 @@
+.node_container {
+  display: grid;
+  grid-template-columns: repeat(40, 1fr);
+  align-items: flex-start;
+
+  /* justify-items: center; */
+  /* margin-top: 2rem; */
+  /* height: 60rem; */
+  /* column-gap: 3rem; */
+}
