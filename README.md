@@ -1,4 +1,4 @@
-Binary and Linear Search Visualizer
+## Binary and Linear Search Visualizer
 A React.js-based web application that allows users to visualize the working of Binary Search and Linear Search algorithms.
 
 ## Technologies Used
